@@ -1,0 +1,54 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directory
+build//
+build/*
+
+# Bin directory
+bin//
+bin/*
+
+# Generated py files
+__*
+.ycm*
+
+# GTAGS file
+GPATH
+GRTAGS
+GTAGS
+
+# idea config
+.idea//
+.idea/*
+
+# Clion compile files
+cmake-build-*//
+cmake-build-*/
